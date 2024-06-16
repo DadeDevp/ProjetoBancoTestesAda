@@ -26,7 +26,7 @@ Para executar os testes, siga os seguintes passos no seu terminal:
 git clone https://github.com/DadeDevp/ProjetoBancoTestesAda
 
 # Entre na pasta do projeto
-cd [Nome-do-Projeto]
+cd banco-web
 
 # Execute os testes
 mvn test

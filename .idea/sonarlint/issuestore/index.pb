@@ -165,3 +165,6 @@ j
 :src/test/java/br/ada/caixa/service/ClienteServiceTest.java,b\5\b5d985f48f3272ce71495d95e288468110ada492
 9
 	README.MD,9\6\968e80af9562e09cebe594968b130076952eafe1
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

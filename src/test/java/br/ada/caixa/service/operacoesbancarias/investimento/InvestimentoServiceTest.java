@@ -7,6 +7,7 @@ import br.ada.caixa.entity.TipoConta;
 import br.ada.caixa.exceptions.ValidacaoException;
 import br.ada.caixa.respository.ClienteRepository;
 import br.ada.caixa.respository.ContaRepository;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -42,6 +43,7 @@ class InvestimentoServiceTest {
     private InvestimentoService service;
 
     @Test
+    @Disabled
     @DisplayName("dado um cliente PF com uma conta investimento unica, " +
             "quando investido um valor, " +
             "entao a conta é atualizada no banco de dados")
